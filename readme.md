@@ -1,2 +1,3 @@
-<p align="center">NightClub-Laravel Project</p>
+# Laravel - NightClub
+
 ![Sample](1.PNG)
